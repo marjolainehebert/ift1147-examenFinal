@@ -1,0 +1,7 @@
+#montrerForm, #montrerSupp {
+    width:100% !important;
+    color:red;
+    font-weight: bold;
+    font-size: 0.8rem;
+    display:none;
+}
